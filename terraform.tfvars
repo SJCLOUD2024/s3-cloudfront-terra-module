@@ -4,7 +4,7 @@
 
 aws_region   = "eu-west-2"
 project_name = "my-project"
-bucket_name  = "my-company-static-site-prod" # must be globally unique
+bucket_name  = "my-company-static-HCP-prod" # must be globally unique
 
 tags = {
   Project     = "my-project"
