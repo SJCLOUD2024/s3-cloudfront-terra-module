@@ -11,4 +11,5 @@ tags = {
   ManagedBy   = "terraform"
   Environment = "prod"
   Team        = "frontend"
+  Terra       = "SJCLOUD"
 }
